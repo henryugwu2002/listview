@@ -17,21 +17,6 @@ class ScrollDirection extends StatelessWidget {
                 height: 100,
                 color: Colors.grey,
               ),
-              Container(
-                width: 200,
-                height: 100,
-                color: Colors.blueGrey,
-              ),
-              Container(
-                width: 200,
-                height: 100,
-                color: Colors.green,
-              ),
-              Container(
-                width: 200,
-                height: 100,
-                color: Colors.grey,
-              )
             ],
           ),
         ),
